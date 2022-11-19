@@ -12,8 +12,6 @@ sleep 3
 echo -e "\e[1m\e[32m1. Sunucu guncellemesi yapiliyor.. \e[0m"
 echo "======================================================"
 sleep 1
-sudo su
-cd
 sudo apt update && sudo apt upgrade -y
 
 echo -e "\e[1m\e[32m2. Gerekli kurulumlar yapiliyor.. \e[0m"
