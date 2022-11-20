@@ -32,7 +32,7 @@ echo -e "\e[1m\e[32m3. Binary dosyalari yukleniyor.. \e[0m"
 echo "======================================================"
 sleep 1
 git clone https://github.com/anoma/namada-trusted-setup.git
-cd namada-trusted-setup && git checkout v1.0.1
+cd namada-trusted-setup && git checkout v1.1.0
 
 cargo build --release --bin namada-ts --features cli
 
