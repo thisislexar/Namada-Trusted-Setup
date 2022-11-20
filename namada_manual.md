@@ -23,7 +23,7 @@ source $HOME/.cargo/env
 
 ```
 git clone https://github.com/anoma/namada-trusted-setup.git
-cd namada-trusted-setup && git checkout v1.0.1
+cd namada-trusted-setup && git checkout v1.1.0
 ```
 ```
 mv target/release/namada-ts /usr/local/bin 
