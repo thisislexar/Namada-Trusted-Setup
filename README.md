@@ -36,7 +36,7 @@ Script çalıştırıldıktan sonra karşınıza böyle bir seçenek çıkacak, 
 Node bilginizi geliştirmek adına dilerseniz [Manuel Kurulum](https://github.com/thisislexar/Namada-Trusted-Setup/blob/main/namada_manual.md) da yapabilirsiniz.
 
 
-# 2) Token contribution yapıyoruz.
+# 2) Token contribution yapıyoruz. Bu kısım cohort sıranız geldiğinde yapılması gerekiyor.
 
 Aşağıdaki komutta `<MAIL'İNİZDEKİ TOKEN>` kısmını maildeki token ile değiştirmeniz gerekiyor. Alttaki görselde görebilirsiniz.
 
@@ -47,14 +47,32 @@ Aşağıdaki komutta `<MAIL'İNİZDEKİ TOKEN>` kısmını maildeki token ile de
 namada-ts contribute default https://contribute.namada.net <MAIL'İNİZDEKİ TOKEN>
 ```
 
-# 3) Contribution verify ediyoruz.
+![image](https://user-images.githubusercontent.com/101462877/203034959-442a4df6-b2eb-4415-b9ce-ff190a6f44e8.png)
 
-Bu kısımda benim token'ım için aşağıdaki görselde de görüldüğü üzere cohort sırası gelmediği için birebir ne yapacağınızı söyleyemiyorum, ancak ekip tarafından paylaşılan [dokümana](https://github.com/anoma/namada-trusted-setup#verify-a-contribution) göre yapmaya çalışın. 
+## Anonim olarak contribution yapmak istiyorsanız `y` yazıp enter'lıyoruz, adımız gözüksün istiyorsak `n` yazıp enter'lıyoruz. Ardından isim ve mail giriyoruz. Bize 24 tane mnemonic kelimesi veriyor. Bunları KESİNLİKLE bir yere kaydediyoruz.
 
-Yapamazsanız [LossNode Telegram](https://t.me/LossNode)'da yardım etmeye çalışırım.
+![image](https://user-images.githubusercontent.com/101462877/203035486-c8058fad-7ef3-4666-966b-25989a399116.png)
 
-![image](https://user-images.githubusercontent.com/101462877/202855689-34ff1140-60bc-432f-81a4-5f2cf55ca000.png)
+## Ardından bu 24 kelime içinden rastgele birkaç tane soruyor, bunları giriyoruz. Sıranın bize gelmesini bekliyoruz.
 
+![image](https://user-images.githubusercontent.com/101462877/203035559-929c9dfd-e107-4650-861f-7c341a1bd2d6.png)
+
+## Sıra size geldiğinde rastgele bir cümle bütünlüğü yazmanızı istiyor, rastgele onu yazıyoruz ve onu da bir yere not ediyoruz. Ardından aşağıdaki görselde kutuda gösterdiğim gibi bir çıktı veriyor, bunu kopyalayıp tweet atıyoruz.
+
+![image](https://user-images.githubusercontent.com/101462877/203035798-124b03cf-7b87-444f-82bc-327e451ba682.png)
+
+## Aşağıdaki görselde gördüğünüz soruya `y` yazıyoruz.
+
+![image](https://user-images.githubusercontent.com/101462877/203035871-0d598870-8b6e-48e1-b9b4-e1ed2291c738.png)
+
+## Attığımız tweet'in linkini doğru bir şekilde yapıştırıyoruz.
+
+![image](https://user-images.githubusercontent.com/101462877/203035928-44922d17-83f5-461e-be38-4b732ef6b63d.png)
+
+
+## Son olarak [Ceremony] sayfasında sizin cohort'unuza giderek contribution'ınızı görebilirsiniz.
+
+![image](https://user-images.githubusercontent.com/101462877/203036068-92f76eb0-94bf-47ee-965d-d8cf2fa464f0.png)
 
 
 # Sorularınız ve merak ettikleriniz için: LossNode(https://t.me/LossNode)
