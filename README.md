@@ -75,4 +75,4 @@ namada-ts contribute default https://contribute.namada.net <MAIL'İNİZDEKİ TOK
 ![image](https://user-images.githubusercontent.com/101462877/203036068-92f76eb0-94bf-47ee-965d-d8cf2fa464f0.png)
 
 
-# Sorularınız ve merak ettikleriniz için: LossNode(https://t.me/LossNode)
+# Sorularınız ve merak ettikleriniz için: [LossNode](https://t.me/LossNode)
