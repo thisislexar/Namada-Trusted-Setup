@@ -24,9 +24,9 @@ echo -e "\e[1m\e[32m2. Rust yukleniyor.. \e[0m"
 echo "======================================================"
 sleep 1
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-rustup update
 source $HOME/.cargo/env
+rustup update
+
 
 echo -e "\e[1m\e[32m3. Binary dosyalari yukleniyor.. \e[0m"
 echo "======================================================"
